@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "crypto-js": "^3.1.9-1",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "request-promise": "^4.2.4"
   },
   "devDependencies": {},
